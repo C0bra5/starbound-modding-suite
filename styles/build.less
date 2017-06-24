@@ -1,0 +1,50 @@
+/* comment readability */
+atom-text-editor.editor .syntax--comment.syntax--single.syntax--json {
+  color: hsl(200,0.5,0.5);
+}
+atom-text-editor.editor .syntax--punctuation.syntax--definition.syntax--comment.syntax--json,
+atom-text-editor.editor .syntax--comment.syntax--block.syntax--json {
+  color: darkcyan;
+}
+atom-text-editor.editor .invisible-character.leading-whitespace{
+    color: hsl(30,0.75,0.75);
+}
+/*linter readability*/
+#linter-panel .sb-table.linter{
+	font-size: 110% !important;
+}
+
+/*auto-complete*/
+atom-text-editor.editor autocomplete-suggestion-list{
+}
+atom-text-editor.editor autocomplete-suggestion-list span.word{
+	min-width: 100%;
+	font-size: 100%;
+}
+.suggestion-description-content p {
+	margin-bottom: 1rem !important;
+}
+.suggestion-description-content p:last-child {
+	margin-bottom: 0.25rem !important;
+}
+.suggestion-description-content p ~ pre {
+	margin-top: -0.5rem !important;
+	color:#FFFFFF !important;
+	background-color: rgba(255, 255, 255, 0.0666667);
+}
+.suggestion-description-content p ~ pre:not(:last-child) {
+	margin-bottom: 0.5rem !important;
+}
+.suggestion-description-content p ~ pre:last-child {
+	margin-bottom: 0.25rem !important;
+}
+.suggestion-description-content pre {
+	padding:0.25rem !important;
+	font-size: 90%;
+}
+autocomplete-suggestion-list.popover-list.select-list.autocomplete-suggestion-list{
+}
+div.suggestion-description {
+	width:100% !important;
+	max-width:50vh !important;
+}
