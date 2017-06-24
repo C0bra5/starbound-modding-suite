@@ -1,7 +1,7 @@
 {
   "name": "starbound-modding-suite",
   "version": "1.0.0",
-  "description": "Launch Starbound directly from atom.",
+  "description": "The Un(Official) starbound modding package suite for atom.",
   "license": "MIT",
   "repository": "https://github.com/C0bra5/starbound-modding-suite",
   "consumedServices": {},
@@ -22,7 +22,7 @@
     "starbound-open-unsupported-files",
     "starbound-pretty-json"
   ],
-  "readme": "The Un(Official) starbound package suite for atom, this package will have a lot of dependencies. download them all and you'll be ready to go.\n\nPress f9 to launch the game and get a live log\n\nAll the lua api has been ported to the lua-autocomplete as of 1.3, for easy lua scripting.",
+  "readme": "The Un(Official) starbound modding package suite for atom, this package will have a lot of dependencies. download them all and you'll be ready to go.\n\nPress f9 to launch the game and get a live log\n\nAll the lua api has been ported to the lua-autocomplete as of 1.3, for easy lua scripting.",
   "readmeFilename": "README.md",
   "scripts": {}
 }
