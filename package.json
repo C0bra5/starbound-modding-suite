@@ -1,7 +1,7 @@
 {
   "name": "starbound-modding-suite",
-  "main" : "./main.js",
-  "version": "1.0.1",
+  "main": "./main.js",
+  "version": "1.0.2",
   "description": "The Un(Official) starbound modding package suite for atom.",
   "license": "MIT",
   "repository": "https://github.com/C0bra5/starbound-modding-suite",
