@@ -1,16 +1,15 @@
 {
   "name": "starbound-modding-suite",
   "main": "./main.js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "The Un(Official) starbound modding package suite for atom.",
   "license": "MIT",
   "repository": "https://github.com/C0bra5/starbound-modding-suite",
   "consumedServices": {},
   "dependencies": {
     "atom-package-deps": "^4.0.1"
-	},
-  "devDependencies": {
   },
+  "devDependencies": {},
   "engines": {
     "atom": ">=1.0.0"
   },
