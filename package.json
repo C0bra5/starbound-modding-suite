@@ -6,17 +6,7 @@
   "license": "MIT",
   "repository": "https://github.com/C0bra5/starbound-modding-suite",
   "consumedServices": {},
-  "dependencies": {
-    "starbound-autocomplete-json": "*",
-    "starbound-autocomplete-lua": "*",
-    "starbound-build": "*",
-    "starbound-language-json": "*",
-    "starbound-language-lua": "*",
-    "starbound-linter-json": "*",
-    "starbound-linter-lua": "*",
-    "starbound-open-unsupported-files": "*",
-    "starbound-pretty-json": "*"
-  },
+  "dependencies": { },
   "devDependencies": {},
   "engines": {
     "atom": ">=1.0.0"
