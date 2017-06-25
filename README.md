@@ -18,3 +18,15 @@ The Un(Official) starbound modding package suite for atom, this package will hav
 	4. it should open a file explorer in the .atom folder, in that folder drop the luajit folder that is in the archive
 4. restart atom
 5. enjoy
+
+## Included package repositories
+* [starbound-autocomplete-json - https://github.com/C0bra5/starbound-autocomplete-json](https://github.com/C0bra5/starbound-autocomplete-json)
+* [starbound-autocomplete-lua - https://github.com/C0bra5/starbound-autocomplete-lua](https://github.com/C0bra5/starbound-autocomplete-lua)
+* [starbound-build - https://github.com/C0bra5/starbound-build](https://github.com/C0bra5/starbound-build)
+* [starbound-language-json - https://github.com/C0bra5/starbound-language-json](https://github.com/C0bra5/starbound-language-json)
+* [starbound-language-lua - https://github.com/C0bra5/starbound-language-lua](https://github.com/C0bra5/starbound-language-lua)
+* [starbound-linter-json - https://github.com/C0bra5/starbound-linter-json](https://github.com/C0bra5/starbound-linter-json)
+* [starbound-linter-lua - https://github.com/C0bra5/starbound-linter-lua](https://github.com/C0bra5/starbound-linter-lua)
+* [starbound-pretty-json - https://github.com/C0bra5/starbound-modding-suite](https://github.com/C0bra5/starbound-modding-suite)
+* [starbound-open-unsupported-files - https://github.com/C0bra5/starbound-open-unsupported-files](https://github.com/C0bra5/starbound-open-unsupported-files)
+* [starbound-pretty-json - https://github.com/C0bra5/starbound-pretty-json](https://github.com/C0bra5/starbound-pretty-json)
