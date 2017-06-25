@@ -7,7 +7,9 @@
   "repository": "https://github.com/C0bra5/starbound-modding-suite",
   "consumedServices": {},
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "atom-package-deps": "^4.0.1"
+  },
   "engines": {
     "atom": ">=1.0.0"
   },
