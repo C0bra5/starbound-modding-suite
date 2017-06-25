@@ -6,9 +6,10 @@
   "license": "MIT",
   "repository": "https://github.com/C0bra5/starbound-modding-suite",
   "consumedServices": {},
-  "dependencies": {},
-  "devDependencies": {
+  "dependencies": {
     "atom-package-deps": "^4.0.1"
+	},
+  "devDependencies": {
   },
   "engines": {
     "atom": ">=1.0.0"
