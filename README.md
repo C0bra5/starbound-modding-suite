@@ -29,4 +29,3 @@ The Un(Official) starbound modding package suite for atom, this package will hav
 * [starbound-linter-lua - https://github.com/C0bra5/starbound-linter-lua](https://github.com/C0bra5/starbound-linter-lua)
 * [starbound-pretty-json - https://github.com/C0bra5/starbound-modding-suite](https://github.com/C0bra5/starbound-modding-suite)
 * [starbound-open-unsupported-files - https://github.com/C0bra5/starbound-open-unsupported-files](https://github.com/C0bra5/starbound-open-unsupported-files)
-* [starbound-pretty-json - https://github.com/C0bra5/starbound-pretty-json](https://github.com/C0bra5/starbound-pretty-json)
