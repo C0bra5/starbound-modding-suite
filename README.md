@@ -10,14 +10,8 @@ The Un(Official) starbound modding package suite for atom, this package will hav
 
 ## Installation instructions
 1. install all dependencies for this packages and the packages that it installs.
-2. download the luajit folder at [https://drive.google.com/file/d/0B1yzVE03Mf03YWtQLWhJdjRnNWs/view?usp=sharing](https://drive.google.com/file/d/0B1yzVE03Mf03YWtQLWhJdjRnNWs/view?usp=sharing).
-3. put the folder in the archive in the .atom folder, here is how:
-	1. in settings click on the "Open Config Folder"
-	2. in the tree view on the left expand the .atom folder
-	3. right click on any of the folders and select show in explorer
-	4. it should open a file explorer in the .atom folder, in that folder drop the luajit folder that is in the archive
-4. restart atom
-5. enjoy
+2. restart atom
+3. enjoy
 
 ## Included package repositories
 * [starbound-autocomplete-json - https://github.com/C0bra5/starbound-autocomplete-json](https://github.com/C0bra5/starbound-autocomplete-json)
